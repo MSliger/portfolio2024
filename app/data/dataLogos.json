@@ -1,0 +1,60 @@
+{
+    "Logos": [
+    {
+        "images": [
+            {
+                "alt": "24Seven Pharma",
+                "src": "/img/logos/24Seven.svg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "Bryans Family Pharmacy",
+                "src": "/img/logos/bryans.svg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "Hutcheson Homecare Pharmacy",
+                "src": "/img/logos/hhc.svg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "The Oaks Community Church",
+                "src": "/img/logos/oaks.svg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "Old Hills Design Co",
+                "src": "/img/logos/oldhills.svg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "Traveller",
+                "src": "/img/logos/traveller-label.jpg"
+            }
+        ]
+    },
+    {
+        "images": [
+            {
+                "alt": "Rolling Mill Brewing Co",
+                "src": "/img/logos/rmbc.png"
+            }
+        ]
+    }
+    ]
+}
